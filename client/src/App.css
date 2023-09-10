@@ -1,0 +1,23 @@
+#site-nav {
+
+  background-color: black !important;
+  color: rgb(209, 209, 209);
+}
+
+#site-nav a {
+
+  color: inherit;
+}
+
+
+
+.navbar-nav {
+
+  width: 100% !important;
+}
+
+
+.no-line {
+
+  text-decoration: none;
+}
